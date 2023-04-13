@@ -1,7 +1,2 @@
-/testserver.html
-/testserver.js
-/Routes
-/node_modules
-/.env
-
-
+node_modules
+.env
